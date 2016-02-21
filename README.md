@@ -1,3 +1,4 @@
+[![Code Health](https://landscape.io/github/hwang033/job_algorithm/master/landscape.svg?style=flat)](https://landscape.io/github/hwang033/job_algorithm/master)
 # od_challenge
 Code challenge of OpenDoor
 
